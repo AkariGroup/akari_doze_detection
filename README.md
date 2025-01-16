@@ -1,4 +1,4 @@
-# akari_nemuken  
+# akari_doze_detection  
 AKARIとじゃんけんをしたり、AKARIがユーザーの眠気検知をするアプリです  
 
 ## アプリの概要  
