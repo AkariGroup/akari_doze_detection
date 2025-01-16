@@ -16,7 +16,8 @@ cd akari_doze_detection
 git submodule update --init  
 3. 仮想環境の作成  
 python3 -m venv venv  
-. venv/bin/activate  
+. venv/bin/activate 
+sudo apt install portaudio19-dev 
 pip install -r requirements.txt  
  
 ## 起動方法
